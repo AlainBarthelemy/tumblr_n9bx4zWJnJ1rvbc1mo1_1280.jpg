@@ -9,9 +9,9 @@ The source file is a description of the image as a plain text file containing an
 
 ## Workflow
 
-New variations can be created by editing the source code and saving it as a jpg. An hex editor can be used in order to do so.
-Any other tool can be used to edit the code and create new variations as long as each commit contains corresponding source and image.
-Once variations have reach to an ended form, a release with a new version number can be created. The numbering of a new version should reflect subjectively the varation degree from the previous version.
+New variations can be created by editing the source code and saving it as a jpg.
+Any tool may be used to change the code and create new variations as long as each commit contains corresponding source and image.
+Once variations have reach to an ended form, a release with a new version number may be created.
    
 
 ## Contributing
