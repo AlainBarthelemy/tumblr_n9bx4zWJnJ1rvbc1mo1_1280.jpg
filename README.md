@@ -23,4 +23,4 @@ If you wish to make your own versions of this image, just fork this repository a
 
 Alain Barthélémy - 2015
 
-undoubtedly inspired by Raphaël Bastide's 1962 project
+undoubtedly inspired by Raphaël Bastide's [1962](https://github.com/raphaelbastide/1962) project
